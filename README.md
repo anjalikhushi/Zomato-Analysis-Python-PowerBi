@@ -9,7 +9,7 @@ The dataset provides information like an average cost for two, location, votes, 
 The dataset's owner is Zomato and Kaggle is the source providing the data.
 
 
-## Zamoto Analysis
+## Zomato Analysis
 * Load the Raw Data.
 * Data cleaning is performed on Python libraries Numpy, and pandas.
 * Made sure data is Dropping unnecessary columns, Dropping duplicate rows, and Cleaning individual rows.
